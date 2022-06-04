@@ -2,4 +2,4 @@ Frontend Mentor Challenge: https://www.frontendmentor.io/challenges/base-apparel
 
 Codepen: https://codepen.io/javalentino/pen/gOvjOpR
 
-Link: 
+Link: https://javalentino.github.io/base-apparel-coming-soon/
